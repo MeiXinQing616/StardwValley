@@ -1,0 +1,4 @@
+repository "StardwValley@poppyll@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
